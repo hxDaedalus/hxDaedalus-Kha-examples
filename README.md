@@ -7,7 +7,7 @@ Examples of hxDaedalus with Kha see links below.
 [Maze. ](https://hxdaedalus.github.io/hxDaedalus-Kha-examples/build/maze/)
 
 To run:
-Make sure you have Kha folder ( clone Empty ) and also the three hxDaedalus folders in your src folder.
+Make sure you have Kha folder ( clone Empty ) and also the latest core hxDaedalus folders in your src folder, they are not included in this repo.
 Adjust the Main.hx class to run example you prefer from the current selection BitmapPathfinding.
 ```code 
 System.init({title: "hxDaedalus BitmapPathfinding", width: 1024, height: 768, samplesPerPixel: 4}
