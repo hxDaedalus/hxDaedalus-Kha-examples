@@ -1,7 +1,7 @@
 # hxDaedalus-Kha-examples
-Examples of hxDaedalus with Kha
+Examples of hxDaedalus with Kha see links below.
 
-[Basic -> ](https://hxDaedalus.github.io/hxDaedalus-Kha-examplse/build/basic/)
-[Pathfinding -> ](https://hxDaedalus.github.io/hxDaedalus-Kha-examplse/build/pathfinding/)
-[BitmapPathfinding -> ](https://hxDaedalus.github.io/hxDaedalus-Kha-examplse/build/bitmapPpathfinding/)
-[Maze -> ](https://hxDaedalus.github.io/hxDaedalus-Kha-examplse/build/maze/)
+[Basic, ](https://hxdaedalus.github.io/hxDaedalus-Kha-examples/build/basic/)
+[Pathfinding, ](https://hxdaedalus.github.io/hxDaedalus-Kha-examples/build/pathfinding/)
+[BitmapPathfinding, ](https://hxdaedalus.github.io/hxDaedalus-Kha-examples/build/bitmapPpathfinding/)
+[Maze. ](https://hxdaedalus.github.io/hxDaedalus-Kha-examples/build/maze/)
